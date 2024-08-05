@@ -1,6 +1,5 @@
 # Large Language and Vision Assistant
 
-*Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.*
 
 <!--p align="center">
     <a href="https://llava.hliu.cc/"><img src="images/llava_logo.png" width="50%"></a> <br>
